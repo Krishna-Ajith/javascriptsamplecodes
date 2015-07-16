@@ -35,7 +35,7 @@
         }else{
             document.getElementById('sourceText').style.display = 'none';
             document.getElementById('showhide').innerHTML = ' show HTML file content ';
-            show = true;xfdfsfd
+            show = true;xfdfsfdhsdhs
         }
     }
 	
